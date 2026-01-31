@@ -16,7 +16,7 @@ Bài thực hành Buổi 4 giúp sinh viên nắm vững kỹ năng thiết kế
 
 ## 2. Bài thực hành 1 – Thiết kế cơ bản
 - Định dạng **Slide Master**.
-  - Tạo các slide nội dung theo mẫu minh họa.
+- Tạo các slide nội dung theo mẫu minh họa.
 - Thêm **Transition** và **Animation**.
 - Tạo **liên kết và nút hành động** giữa các slide.
 - Tạo **2 phương án trình chiếu (Custom Slide Show)**.
