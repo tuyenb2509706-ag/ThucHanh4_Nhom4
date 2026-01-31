@@ -9,12 +9,12 @@
 
 ---
 
-## Giới thiệu
+## 1. Giới thiệu
 Bài thực hành Buổi 4 giúp sinh viên nắm vững kỹ năng thiết kế bài trình chiếu bằng **Microsoft PowerPoint**, bao gồm sử dụng **Slide Master, Animation, Action và Custom Slide Show**.
 
 ---
 
-## Bài thực hành 1 – Thiết kế cơ bản
+## 2. Bài thực hành 1 – Thiết kế cơ bản
 - Định dạng **Slide Master**:
   - Title Slide, Office Theme, Title Only
   - Font Times New Roman, cỡ chữ và màu theo yêu cầu
@@ -28,7 +28,7 @@ Bài thực hành Buổi 4 giúp sinh viên nắm vững kỹ năng thiết kế
 
 ---
 
-## Bài thực hành 2 – Thiết kế nâng cao
+## 3. Bài thực hành 2 – Thiết kế nâng cao
 - Sử dụng **Theme Droplet**
 - Định dạng tiêu đề và nội dung bằng Slide Master
 - Chèn **logo CTU** cho tất cả slide
@@ -37,7 +37,7 @@ Bài thực hành Buổi 4 giúp sinh viên nắm vững kỹ năng thiết kế
 
 ---
 
-## Thành viên thực hiện
+## 4. Thành viên thực hiện
 - Huỳnh Phước Hiệp - B2509662
 - Sơn Lâm Võ Minh Quí - B2509693
 -Nguyễn Thị Kim Tuyến - B2509706
