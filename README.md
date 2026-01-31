@@ -15,16 +15,12 @@ Bài thực hành Buổi 4 giúp sinh viên nắm vững kỹ năng thiết kế
 ---
 
 ## 2. Bài thực hành 1 – Thiết kế cơ bản
-- Định dạng **Slide Master**:
-  - Title Slide, Office Theme, Title Only
-  - Font Times New Roman, cỡ chữ và màu theo yêu cầu
-  - Áp dụng hình nền cho từng layout
+- Định dạng **Slide Master**
+  
 - Tạo các slide nội dung theo mẫu minh họa
 - Thêm **Transition** và **Animation**
 - Tạo **liên kết và nút hành động** giữa các slide
-- Tạo **2 phương án trình chiếu (Custom Slide Show)**:
-  - KHTN
-  - CNTT
+- Tạo **2 phương án trình chiếu (Custom Slide Show)**
 
 ---
 
