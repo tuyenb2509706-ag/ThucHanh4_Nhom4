@@ -15,27 +15,26 @@ Bài thực hành Buổi 4 giúp sinh viên nắm vững kỹ năng thiết kế
 ---
 
 ## 2. Bài thực hành 1 – Thiết kế cơ bản
-- Định dạng **Slide Master**
-  
-- Tạo các slide nội dung theo mẫu minh họa
-- Thêm **Transition** và **Animation**
-- Tạo **liên kết và nút hành động** giữa các slide
-- Tạo **2 phương án trình chiếu (Custom Slide Show)**
+- Định dạng **Slide Master**.
+  - Tạo các slide nội dung theo mẫu minh họa.
+- Thêm **Transition** và **Animation**.
+- Tạo **liên kết và nút hành động** giữa các slide.
+- Tạo **2 phương án trình chiếu (Custom Slide Show)**.
 
 ---
 
 ## 3. Bài thực hành 2 – Thiết kế nâng cao
-- Sử dụng **Theme Droplet**
-- Định dạng tiêu đề và nội dung bằng Slide Master
-- Chèn **logo CTU** cho tất cả slide
-- Thêm **Footer: “Giới thiệu Đại học Cần Thơ”** và số trang
-- Tạo **hyperlink** liên kết đến website khoa CNTT&TT
+- Sử dụng **Theme Droplet**.
+- Định dạng tiêu đề và nội dung bằng Slide Master.
+- Chèn **logo CTU** cho tất cả slide.
+- Thêm **Footer: “Giới thiệu Đại học Cần Thơ”** và số trang.
+- Tạo **hyperlink** liên kết đến website khoa CNTT&TT.
 
 ---
 
 ## 4. Thành viên thực hiện
-- Huỳnh Phước Hiệp - B2509662
-- Sơn Lâm Võ Minh Quí - B2509693
--Nguyễn Thị Kim Tuyến - B2509706
-- Lê Vũ Duy - B2509719
+- Huỳnh Phước Hiệp - B2509662.
+- Sơn Lâm Võ Minh Quí - B2509693.
+-Nguyễn Thị Kim Tuyến - B2509706.
+- Lê Vũ Duy - B2509719.
 
