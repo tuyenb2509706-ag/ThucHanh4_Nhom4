@@ -8,14 +8,14 @@
 ## 📑 MỤC LỤC
 | Phần | Nội dung |
 |------|---------|
-| 1️⃣ | [Giới thiệu](#-1-giới-thiệu) |
-| 2️⃣ | [Bài thực hành 1 – Thiết kế cơ bản](#-bài-thực-hành-1--thiết-kế-cơ-bản) |
-| 3️⃣ | [Bài thực hành 2 – Thiết kế nâng cao](#-bài-thực-hành-2--thiết-kế-nâng-cao) |
-| 4️⃣ | [Thành viên](#-thành-viên) |
+| 1️⃣ | [Giới thiệu](#1-giới-thiệu) |
+| 2️⃣ | [Bài thực hành 1 – Thiết kế cơ bản](#2-bài-thực-hành-1--thiết-kế-cơ-bản) |
+| 3️⃣ | [Bài thực hành 2 – Thiết kế nâng cao](#3-bài-thực-hành-2--thiết-kế-nâng-cao) |
+| 4️⃣ | [Thành viên](#4-thành-viên) |
 
 ---
 
-## 📌 Giới thiệu
+## 📌1. Giới thiệu
 Bài thực hành giúp sinh viên rèn luyện kỹ năng thiết kế bài trình chiếu bằng **Microsoft PowerPoint**, bao gồm:
 
 ✨ Slide Master  
@@ -25,7 +25,7 @@ Bài thực hành giúp sinh viên rèn luyện kỹ năng thiết kế bài tr�
 
 ---
 
-## 🖌️ Bài thực hành 1 – Thiết kế cơ bản
+## 🖌️2. Bài thực hành 1 – Thiết kế cơ bản
 
 | Nội dung | Mô tả |
 |---------|------|
@@ -37,7 +37,7 @@ Bài thực hành giúp sinh viên rèn luyện kỹ năng thiết kế bài tr�
 
 ---
 
-## 🚀 Bài thực hành 2 – Thiết kế nâng cao
+## 🚀3. Bài thực hành 2 – Thiết kế nâng cao
 
 | Nội dung | Mô tả |
 |---------|------|
@@ -49,7 +49,7 @@ Bài thực hành giúp sinh viên rèn luyện kỹ năng thiết kế bài tr�
 
 ---
 
-## 👩‍💻 Thành viên 
+## 👩‍💻4. Thành viên 
 
 | Họ và tên | MSSV |
 |-----------|------|
