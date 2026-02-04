@@ -42,9 +42,9 @@ Bài thực hành giúp sinh viên rèn luyện kỹ năng thiết kế bài tr�
 | Nội dung | Mô tả |
 |---------|------|
 | 🎭 Theme Droplet | Áp dụng giao diện đồng bộ |
-| 🧩 Slide Master nâng cao | Quản lý tiêu đề & nội dung |
+| Slide Master nâng cao | Quản lý tiêu đề & nội dung |
 | 🏫 Logo CTU | Chèn logo cho toàn bộ slide |
-| 🦶 Footer | Thêm “Giới thiệu Đại học Cần Thơ” + số trang |
+| Footer | Thêm “Giới thiệu Đại học Cần Thơ” + số trang |
 | 🌐 Hyperlink | Liên kết đến website khoa CNTT |
 
 ---
@@ -55,13 +55,12 @@ Bài thực hành giúp sinh viên rèn luyện kỹ năng thiết kế bài tr�
 |-----------|------|
 | Huỳnh Phúc Hiệp | B250966 |
 | Sơn Lâm Võ Minh Vũ | B2509693 |
-| Nguyễn Thị Kim Tuyên | B2509706 |
+| Nguyễn Thị Kim Tuyến | B2509706 |
 | Lê Vũ Duy | B2509719 |
 
 ---
 
-<div align="center">
+⭐⭐⭐⭐
 
-⭐ *Bài thực hành môn Tin học ứng dụng* ⭐  
 
-</div>
+
