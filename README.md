@@ -8,7 +8,7 @@
 ## 📑 MỤC LỤC
 | Phần | Nội dung |
 |------|---------|
-| 1️⃣ | [Giới thiệu](#-giới-thiệu) |
+| 1️⃣ | [Giới thiệu](#-1-giới-thiệu) |
 | 2️⃣ | [Bài thực hành 1 – Thiết kế cơ bản](#-bài-thực-hành-1--thiết-kế-cơ-bản) |
 | 3️⃣ | [Bài thực hành 2 – Thiết kế nâng cao](#-bài-thực-hành-2--thiết-kế-nâng-cao) |
 | 4️⃣ | [Thành viên](#-thành-viên) |
