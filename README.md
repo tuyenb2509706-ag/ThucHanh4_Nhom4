@@ -53,8 +53,8 @@ Bài thực hành giúp sinh viên rèn luyện kỹ năng thiết kế bài tr�
 
 | Họ và tên | MSSV |
 |-----------|------|
-| ⭐Huỳnh Phúc Hiệp | B250966 |
-| ⭐Sơn Lâm Võ Minh Vũ | B2509693 |
+| ⭐Huỳnh Phước Hiệp | B2509662 |
+| ⭐Sơn Lâm Võ Minh Quí | B2509693 |
 | ⭐Nguyễn Thị Kim Tuyến | B2509706 |
 | ⭐Lê Vũ Duy | B2509719 |
 
