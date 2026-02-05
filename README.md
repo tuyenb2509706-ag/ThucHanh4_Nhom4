@@ -45,7 +45,7 @@ Bài thực hành giúp sinh viên rèn luyện kỹ năng thiết kế bài tr�
 | 🏫 Logo CTU | Chèn logo cho toàn bộ slide |
 | Footer | Thêm “Giới thiệu Đại học Cần Thơ” + số trang |
 | 🌐 Hyperlink | Liên kết đến website khoa CNTT |
-| ▶️ Custom Slide Show | Tạo 2 phương án trình chiếu |
+| Custom Slide Show | Tạo 2 phương án trình chiếu |
 
 ---
 
