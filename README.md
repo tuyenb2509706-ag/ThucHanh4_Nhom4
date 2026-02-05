@@ -33,7 +33,6 @@ Bài thực hành giúp sinh viên rèn luyện kỹ năng thiết kế bài tr�
 | 📝 Tạo slide theo mẫu | Thiết kế nội dung chuẩn |
 | 🔄 Transition & Animation | Hiệu ứng chuyển và động |
 | 🔗 Liên kết & hành động | Điều hướng giữa các slide |
-| ▶️ Custom Slide Show | Tạo 2 phương án trình chiếu |
 
 ---
 
@@ -46,6 +45,7 @@ Bài thực hành giúp sinh viên rèn luyện kỹ năng thiết kế bài tr�
 | 🏫 Logo CTU | Chèn logo cho toàn bộ slide |
 | Footer | Thêm “Giới thiệu Đại học Cần Thơ” + số trang |
 | 🌐 Hyperlink | Liên kết đến website khoa CNTT |
+| ▶️ Custom Slide Show | Tạo 2 phương án trình chiếu |
 
 ---
 
